@@ -1,1 +1,13 @@
 /* section_1 css */
+
+.section_1 {
+  height: 80vh;
+  box-sizing: border-box;
+  background-color: lightgray;
+}
+
+.section_1 h3 {
+  font-size: 70px;
+  font-weight: 700;
+  margin-top: 100px;
+}

@@ -10,6 +10,11 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  box-sizing: border-box;
+}
+
+header a {
+  color: white;
 }
 
 .logo {
@@ -21,6 +26,6 @@ header {
   display: flex;
 }
 
-.menu {
+.menu_wrap li {
   margin-left: 30px;
 }
